@@ -1,0 +1,122 @@
+customerid,subscription_start_date,subscription_type,renewal_date,plan_type,contract_type,cancellation_date,cancellation_reason,monthly_charges,cltv,churn_score,churn_flag,customer_name,country,state,gender,dob,complaint_date,escalations,csat_score,complaint_count
+0002-ORFBO,2021-03-15,Refferal,2025-03-15,Standard,Annual,,,13.99,627,12,0,keshav,India,Maharashtra,Male,1982-04-12,,,,
+0003-MKNFE,2020-08-01,Paid,2024-08-01,Premium,Annual,2024-09-10,Switched to competitor,12.99,1150,91,1,raghav,India,Karnataka,Male,1995-11-23,2024-08-28,Y,10.0,1.0
+0004-TLHLJ,2022-11-20,Organic,2025-11-20,Basic,Monthly,,,6.99,210,34,0,lalita,India,Delhi,Female,1978-02-15,,,,
+0011-IGKFF,2019-05-10,Paid,2025-05-10,Premium,Annual,,,22.99,1725,8,0,mohan,India,Nagaland,Male,2001-08-30,,,,
+0013-EXCHZ,2023-01-05,Refferal,2024-01-05,Standard,Monthly,2024-02-28,Too expensive,13.99,195,88,1,mira,India,Delhi,Female,1990-05-05,2024-01-20,Y,20.0,1.0
+0013-MHZWF,2022-06-18,Paid,2025-06-18,Standard,Annual,,,17.99,720,22,0,durga,India,Delhi,Female,1988-12-10,2025-03-18,N,90.0,1.0
+0013-SMEOE,2021-09-30,Refferal,2024-09-30,Basic,Monthly,2024-11-15,Not enough content,8.99,230,79,1,mina,India,Meghalaya,Female,1976-09-21,2024-11-01,N,30.0,1.0
+0014-BMAQU,2020-02-14,Organic,2025-02-14,Premium,Annual,,,22.99,1840,5,0,madan,India,Rajasthan,Male,1999-03-14,,,,
+0015-UOCOJ,2023-07-22,Organic,2024-07-22,Standard,Monthly,,,13.99,240,34,0,maya,Nepal,Kathmandu,Female,1985-07-07,,,,
+0016-QLJIS,2022-04-03,Organic,2025-04-03,Basic,Annual,,,6.99,335,41,0,arjun,Nepal,Kathmandu,Male,1993-10-29,,,,
+0017-DINOC,2021-12-01,Organic,2025-12-01,Premium,Annual,,,22.99,1610,14,0,shiva,India,Maharashtra,Male,1997-01-22,,,,
+0017-IUDMW,2023-03-17,Refferal,2024-03-17,Standard,Monthly,2024-05-01,Poor streaming quality,7.99,270,83,1,rangadevi,India,Karnataka,Female,1981-06-18,2024-04-10,Y,25.0,1.0
+0018-NYROU,2020-10-09,Organic,2025-10-09,Standard,Annual,,,13.99,980,19,0,chitra,India,Telangana,Female,2004-12-01,,,,
+0019-EFAEP,2022-08-25,Refferal,2024-08-25,Basic,Monthly,2024-10-31,Switched to competitor,12.99,160,76,1,raju,India,Meghalaya,Female,1992-04-25,2024-09-27,Y,30.0,1.0
+0019-GFNTW,2019-11-11,Paid,2025-11-11,Premium,Annual,,,92.99,2185,3,0,Madhav,India,Uttar Pradesh,Male,1979-11-11,,,,
+0020-INWCK,2023-05-06,Organic,2025-05-06,Standard,Monthly,,,13.99,640,58,0,parvati,India,Delhi,Female,1986-02-28,,,,
+0020-JDNXP,2022-01-19,Organic,2024-01-19,Premium,Annual,,,20.99,550,62,0,rikim,India,Meghalaya,Female,1994-08-19,,,,
+0021-IKXGC,2021-07-07,Paid,2025-07-07,Standard,Annual,,,13.99,840,27,0,vishakha,India,Rajasthan,Female,2000-09-02,,,,
+0022-TCJCI,2023-09-14,Refferal,2024-09-14,Basic,Monthly,2024-09-14,Forgot to cancel trial,16.99,42,99,1,raghvendra,India,Telangana,Male,1983-12-30,2024-09-14,N,90.0,1.0
+0023-HGHWL,2020-06-23,Organic,2025-06-23,Premium,Annual,,,22.99,1955,7,0,rishabh,India,Uttar Pradesh,Male,1991-05-14,,,,
+0023-UYUPN,2022-12-31,Paid,2025-12-31,Standard,Monthly,,,13.99,790,47,0,sudevi,India,Maharashtra,Female,1977-10-06,,,,
+1000-HOAPH,2024-04-12,Streaming,2025-04-12,Standard,Two year,,,599.0,838,62,0,Aarav0,India,Delhi,Male,1998-01-13,,,,
+1001-PTWMF,2023-12-14,Streaming,2024-12-13,Premium,Month-to-month,,,999.0,3396,61,0,Sneha1,India,Maharashtra,Male,1990-05-05,,,,
+1002-PKJGU,2020-06-06,Streaming,2021-06-06,Standard,Two year,,,599.0,1377,1,0,Rohit2,India,Karnataka,Female,1996-10-22,2021-06-13,No,4.0,1.0
+1003-QZGGD,2021-04-09,Streaming,2022-04-09,Premium,Month-to-month,,,999.0,2897,67,0,Neha3,India,Maharashtra,Male,1996-10-01,2022-05-01,Yes,1.0,1.0
+1004-KVOVJ,2023-01-09,Streaming,2024-01-09,Basic,Month-to-month,2023-07-06,Price,299.0,747,99,1,Arjun4,India,Maharashtra,Male,2004-10-10,2023-04-17,Yes,3.0,1.0
+1005-ZITEJ,2024-07-20,Streaming,2025-07-20,Premium,One year,,,999.0,1898,23,0,Aditya5,India,Karnataka,Male,1988-08-10,,,,
+1006-FCAAT,2021-03-10,Streaming,2022-03-10,Premium,Month-to-month,,,999.0,1398,8,0,Isha6,India,Karnataka,Male,1996-06-24,,,,
+1007-GPTOK,2020-04-19,Streaming,2021-04-19,Premium,One year,,,999.0,3096,20,0,Rahul7,India,Punjab,Female,1980-02-24,2022-08-06,No,3.0,1.0
+1008-WPZGT,2020-09-07,Streaming,2021-09-07,Premium,One year,,,999.0,2897,53,0,Nikhil8,India,MP,Male,1985-04-03,2022-03-14,No,5.0,1.0
+1009-SHFZD,2020-08-16,Streaming,2021-08-16,Premium,Month-to-month,,,999.0,1898,1,0,Kabir9,India,MP,Male,1996-12-03,2021-04-25,No,5.0,1.0
+1010-GCJRQ,2023-10-14,Streaming,2024-10-13,Basic,Two year,,,299.0,867,1,0,Priya10,India,Punjab,Male,2003-07-07,,,,
+1011-TDJBY,2019-01-03,Streaming,2020-01-03,Premium,One year,,,999.0,2497,24,0,Kabir11,India,Maharashtra,Male,1992-09-19,,,,
+1012-EEPSB,2020-02-05,Streaming,2021-02-04,Basic,Month-to-month,2020-11-24,Price,299.0,478,95,1,Pooja12,India,UP,Female,1990-03-24,,,,
+1013-CSKFL,2019-04-13,Streaming,2020-04-12,Standard,One year,,,599.0,539,17,0,Aarav13,India,Maharashtra,Male,1981-04-26,2021-03-02,No,3.0,1.0
+1014-WRPVS,2021-07-02,Streaming,2022-07-02,Premium,Two year,,,999.0,1398,34,0,Arjun14,India,Maharashtra,Female,1983-01-09,2022-02-18,No,3.0,1.0
+1015-GXRIH,2023-02-19,Streaming,2024-02-19,Basic,Two year,,,299.0,328,55,0,Vivaan15,India,UP,Male,1985-03-28,,,,
+1016-TYRVD,2024-02-13,Streaming,2025-02-12,Standard,One year,,,599.0,1497,6,0,Ananya16,India,Karnataka,Female,1984-03-17,2026-03-13,No,4.0,1.0
+1017-NRJDE,2020-01-22,Streaming,2021-01-21,Premium,Month-to-month,,,999.0,2797,50,0,Kabir17,India,Karnataka,Female,1983-12-11,,,,
+1018-LEKLW,2022-10-25,Streaming,2023-10-25,Basic,One year,,,299.0,358,1,0,Kabir18,India,MP,Female,1981-09-02,,,,
+1019-TJMCL,2024-04-17,Streaming,2025-04-17,Basic,Month-to-month,,,299.0,687,41,0,Simran19,India,Delhi,Female,1999-06-08,2025-12-04,No,3.0,1.0
+1020-GYPVG,2022-11-18,Streaming,2023-11-18,Standard,One year,,,599.0,1138,17,0,Arjun20,India,MP,Male,1980-06-10,,,,
+1021-FPWBS,2020-01-16,Streaming,2021-01-15,Basic,Month-to-month,,,299.0,1076,61,0,Isha21,India,Delhi,Male,1991-05-11,2021-07-18,Yes,3.0,1.0
+1022-ASEBY,2020-04-23,Streaming,2021-04-23,Premium,Two year,,,999.0,1698,1,0,Aditya22,India,Maharashtra,Female,1975-10-08,,,,
+1023-KQFYK,2019-04-06,Streaming,2020-04-05,Basic,Month-to-month,,,299.0,269,44,0,Arjun23,India,Karnataka,Male,2002-10-13,2021-01-28,No,5.0,1.0
+1024-RFYRG,2024-06-20,Streaming,2025-06-20,Standard,One year,,,599.0,1018,8,0,Aditya24,India,UP,Male,1981-12-23,2025-01-23,No,3.0,1.0
+1025-BAZPO,2023-10-07,Streaming,2024-10-06,Standard,Month-to-month,,,599.0,1138,55,0,Aisha25,India,Maharashtra,Female,1982-03-28,2025-09-16,No,3.0,1.0
+1026-STCBQ,2021-04-03,Streaming,2022-04-03,Premium,One year,,,999.0,2697,34,0,Neha26,India,Karnataka,Female,1977-03-09,,,,
+1027-HXMWH,2020-05-18,Streaming,2021-05-18,Basic,Month-to-month,,,299.0,807,68,0,Pooja27,India,Maharashtra,Male,2000-01-10,,,,
+1028-HLUGH,2024-08-21,Streaming,2025-08-21,Standard,Month-to-month,,,599.0,1198,25,0,Aditya28,India,Delhi,Female,1993-06-28,2026-05-20,No,5.0,1.0
+1029-XKVUO,2019-06-27,Streaming,2020-06-26,Standard,Month-to-month,,,599.0,1737,1,0,Aisha29,India,Delhi,Female,1989-04-05,2020-05-16,No,5.0,1.0
+1030-MVQSH,2020-10-18,Streaming,2021-10-18,Premium,Two year,,,999.0,799,47,0,Sana30,India,Maharashtra,Male,1993-03-21,2022-08-11,No,5.0,1.0
+1031-YPMVT,2023-04-23,Streaming,2024-04-22,Basic,Month-to-month,,,299.0,448,23,0,Sana31,India,UP,Male,1996-01-28,,,,
+1032-GUQMD,2022-10-12,Streaming,2023-10-12,Basic,Two year,,,299.0,239,55,0,Varun32,India,Punjab,Female,1980-08-09,2022-12-14,No,4.0,1.0
+1033-VHYJB,2023-07-24,Streaming,2024-07-23,Basic,Month-to-month,,,299.0,508,39,0,Rohit33,India,MP,Male,1986-02-11,2023-11-04,No,3.0,1.0
+1034-DYYXA,2021-04-06,Streaming,2022-04-06,Standard,One year,,,599.0,1437,46,0,Neha34,India,Punjab,Female,2002-10-25,2021-10-22,No,4.0,1.0
+1035-OZCPI,2023-10-10,Streaming,2024-10-09,Basic,Two year,,,299.0,388,35,0,Vivaan35,India,Punjab,Female,1989-09-24,2025-01-08,No,4.0,1.0
+1036-MOAKC,2022-01-04,Streaming,2023-01-04,Standard,Two year,,,599.0,1257,37,0,Kabir36,India,Karnataka,Female,1980-03-03,2022-03-14,No,5.0,1.0
+1037-MAJBC,2024-11-11,Streaming,2025-11-11,Premium,Month-to-month,,,999.0,1598,1,0,Aditya37,India,Punjab,Female,2001-10-16,2025-07-20,No,3.0,1.0
+1038-BSMZN,2019-02-25,Streaming,2020-02-25,Premium,Month-to-month,,,999.0,1698,1,0,Sneha38,India,UP,Male,1994-07-05,,,,
+1039-XGQRL,2021-03-25,Streaming,2022-03-25,Premium,Month-to-month,,,999.0,1598,12,0,Neha39,India,UP,Male,1985-11-13,,,,
+1040-NZQQC,2024-02-05,Streaming,2025-02-04,Standard,Month-to-month,,,599.0,2096,46,0,Sneha40,India,Delhi,Male,1985-03-06,2026-02-11,No,4.0,1.0
+1041-AFMEB,2024-11-03,Streaming,2025-11-03,Standard,Month-to-month,,,599.0,539,31,0,Vivaan41,India,Delhi,Male,1990-08-24,,,,
+1042-GWJDW,2023-08-28,Streaming,2024-08-27,Standard,Two year,,,599.0,2096,51,0,Ananya42,India,Punjab,Male,1997-05-09,,,,
+1043-YHQDC,2020-09-21,Streaming,2021-09-21,Basic,Month-to-month,,,299.0,1046,42,0,Kiran43,India,UP,Female,1991-09-11,,,,
+1044-OWJPM,2022-06-19,Streaming,2023-06-19,Premium,One year,,,999.0,1698,20,0,Kiran44,India,MP,Male,1992-09-13,2023-07-24,No,4.0,1.0
+1045-UNFNG,2021-10-07,Streaming,2022-10-07,Premium,Two year,,,999.0,3596,1,0,Aisha45,India,Punjab,Male,1984-06-17,,,,
+1046-YSCCO,2020-08-22,Streaming,2021-08-22,Basic,One year,,,299.0,1076,26,0,Aisha46,India,Karnataka,Male,1984-02-25,2022-12-21,No,4.0,1.0
+1047-BWVFI,2020-05-07,Streaming,2021-05-07,Basic,Month-to-month,,,299.0,538,57,0,Aisha47,India,Karnataka,Male,1982-11-21,2021-05-24,No,5.0,1.0
+1048-KGHVP,2022-07-07,Streaming,2023-07-07,Basic,One year,,,299.0,299,12,0,Vivaan48,India,Maharashtra,Female,1991-12-04,,,,
+1049-VUTHS,2022-04-07,Streaming,2023-04-07,Premium,Month-to-month,,,999.0,3096,50,0,Nikhil49,India,Karnataka,Female,1975-07-11,,,,
+1050-QTGTG,2022-07-01,Streaming,2023-07-01,Premium,One year,,,999.0,2197,1,0,Meera50,India,Delhi,Male,2003-08-18,,,,
+1051-DCTVJ,2020-08-03,Streaming,2021-08-03,Basic,One year,,,299.0,986,1,0,Meera51,India,Karnataka,Male,1988-02-08,2023-01-13,No,3.0,1.0
+1052-WNKIT,2021-02-13,Streaming,2022-02-13,Standard,Month-to-month,,,599.0,1198,43,0,Arjun52,India,Punjab,Female,1994-11-04,2022-09-05,No,3.0,1.0
+1053-OFWNU,2019-10-07,Streaming,2020-10-06,Basic,Two year,,,299.0,448,23,0,Sneha53,India,UP,Female,1990-03-03,,,,
+1054-XMRCM,2021-06-15,Streaming,2022-06-15,Basic,Month-to-month,,,299.0,867,1,0,Varun54,India,Punjab,Female,2002-03-26,2023-02-19,No,3.0,1.0
+1055-QUOVI,2024-08-04,Streaming,2025-08-04,Premium,Month-to-month,,,999.0,2097,56,0,Sneha55,India,UP,Female,1994-11-27,,,,
+1056-HBUOS,2019-01-22,Streaming,2020-01-22,Basic,Month-to-month,,,299.0,299,31,0,Aarav56,India,Karnataka,Male,1979-09-17,2020-02-20,No,4.0,1.0
+1057-XYSRI,2021-01-08,Streaming,2022-01-08,Standard,One year,,,599.0,1078,25,0,Kiran57,India,Delhi,Female,2001-03-10,2021-10-04,No,4.0,1.0
+1058-CPIYZ,2020-02-13,Streaming,2021-02-12,Standard,Month-to-month,,,599.0,1797,19,0,Neha58,India,Delhi,Female,1999-04-18,,,,
+1059-MTNHV,2024-01-27,Streaming,2025-01-26,Basic,Month-to-month,,,299.0,956,51,0,Rohit59,India,MP,Female,2003-04-16,2025-10-07,No,3.0,1.0
+1060-OGVRI,2024-01-20,Streaming,2025-01-19,Premium,Month-to-month,,,999.0,1098,43,0,Isha60,India,UP,Male,1987-06-25,,,,
+1061-BUETF,2021-03-06,Streaming,2022-03-06,Premium,Month-to-month,,,999.0,2497,15,0,Simran61,India,Delhi,Male,1997-10-24,2023-04-04,No,3.0,1.0
+1062-YSVQE,2020-06-13,Streaming,2021-06-13,Premium,Month-to-month,2021-02-20,Moved,999.0,1398,73,1,Aarav62,India,Karnataka,Female,2000-11-01,2022-10-30,Yes,3.0,1.0
+1063-CXXIA,2024-03-05,Streaming,2025-03-05,Standard,Month-to-month,2026-01-06,Service,599.0,718,84,1,Pooja63,India,UP,Female,1996-04-25,,,,
+1064-FKUQC,2021-07-10,Streaming,2022-07-10,Standard,Month-to-month,,,599.0,2156,70,0,Rahul64,India,Karnataka,Female,2000-10-10,,,,
+1065-DFJPJ,2021-07-18,Streaming,2022-07-18,Premium,One year,,,999.0,3496,1,0,Simran65,India,Maharashtra,Male,1978-12-20,,,,
+1066-VMGPD,2019-10-27,Streaming,2020-10-26,Premium,Month-to-month,2021-12-29,Moved,999.0,799,73,1,Rohit66,India,Delhi,Male,1975-02-03,,,,
+1067-GSPZW,2024-10-14,Streaming,2025-10-14,Basic,Two year,,,299.0,1046,12,0,Meera67,India,Delhi,Male,1986-03-11,,,,
+1068-GEFFA,2023-05-09,Streaming,2024-05-08,Premium,One year,,,999.0,1698,1,0,Vivaan68,India,Karnataka,Male,1983-08-11,,,,
+1069-RYCUJ,2020-04-15,Streaming,2021-04-15,Standard,Month-to-month,2021-12-10,Competitor,599.0,1856,81,1,Nikhil69,India,Punjab,Male,1985-04-01,2021-11-27,Yes,2.0,1.0
+1070-QYGDM,2021-08-06,Streaming,2022-08-06,Premium,Month-to-month,,,999.0,899,28,0,Rahul70,India,UP,Female,1995-07-21,2023-10-24,No,3.0,1.0
+1071-HYYHR,2020-12-22,Streaming,2021-12-22,Standard,One year,,,599.0,1078,27,0,Meera71,India,Punjab,Female,2001-11-16,2021-11-13,No,5.0,1.0
+1072-PESRW,2024-06-16,Streaming,2025-06-16,Premium,Month-to-month,,,999.0,2297,51,0,Aarav72,India,UP,Female,2001-09-05,2025-11-03,No,3.0,1.0
+1073-MSEHD,2024-05-14,Streaming,2025-05-14,Premium,One year,,,999.0,2097,1,0,Sneha73,India,MP,Male,1976-08-07,2026-05-12,No,4.0,1.0
+1074-MASVW,2020-05-12,Streaming,2021-05-12,Basic,Two year,,,299.0,598,1,0,Kiran74,India,UP,Female,1993-04-28,,,,
+1075-IPAHZ,2024-10-17,Streaming,2025-10-17,Standard,Month-to-month,,,599.0,1018,54,0,Arjun75,India,UP,Female,1999-05-19,,,,
+1076-NZSCE,2021-01-18,Streaming,2022-01-18,Basic,Two year,,,299.0,239,1,0,Aisha76,India,MP,Female,1985-07-26,,,,
+1077-IKALR,2023-09-15,Streaming,2024-09-14,Basic,Month-to-month,,,299.0,867,17,0,Meera77,India,MP,Female,1991-05-17,2025-06-26,No,3.0,1.0
+1078-GXFZR,2024-06-01,Streaming,2025-06-01,Basic,Two year,,,299.0,239,13,0,Sneha78,India,Delhi,Male,1993-09-28,,,,
+1079-VVEPJ,2019-04-08,Streaming,2020-04-07,Premium,Month-to-month,,,999.0,3396,65,0,Sneha79,India,Maharashtra,Male,1987-06-20,2021-04-11,No,4.0,1.0
+1080-YOTNH,2023-07-04,Streaming,2024-07-03,Basic,One year,,,299.0,897,1,0,Simran80,India,Punjab,Male,1998-04-09,,,,
+1081-HEODD,2020-01-14,Streaming,2021-01-13,Basic,Month-to-month,2020-06-24,Moved,299.0,627,71,1,Pooja81,India,Karnataka,Male,1978-04-24,2021-02-05,No,4.0,1.0
+1082-YGCQR,2020-12-24,Streaming,2021-12-24,Premium,Month-to-month,,,999.0,1998,70,0,Rahul82,India,MP,Female,1997-02-13,2022-04-07,Yes,1.0,1.0
+1083-YEKOL,2023-12-27,Streaming,2024-12-26,Premium,Month-to-month,,,999.0,2597,1,0,Pooja83,India,MP,Female,1979-01-13,2024-07-25,No,5.0,1.0
+1084-AMCYB,2021-11-01,Streaming,2022-11-01,Premium,Month-to-month,,,999.0,1598,60,0,Isha84,India,Punjab,Female,1995-11-09,,,,
+1085-OCFTF,2024-03-19,Streaming,2025-03-19,Standard,One year,,,599.0,658,14,0,Ananya85,India,Delhi,Male,1988-06-07,,,,
+1086-MRZOL,2023-02-11,Streaming,2024-02-11,Premium,Two year,,,999.0,3596,23,0,Sana86,India,Punjab,Male,1979-11-27,2023-12-18,No,5.0,1.0
+1087-BQSQN,2020-07-13,Streaming,2021-07-13,Standard,One year,,,599.0,1976,1,0,Ananya87,India,UP,Female,1977-09-27,,,,
+1088-LSOEB,2019-01-22,Streaming,2020-01-22,Basic,One year,,,299.0,598,64,0,Kabir88,India,Delhi,Male,1979-07-09,2021-03-09,No,4.0,1.0
+1089-OYWZY,2021-11-23,Streaming,2022-11-23,Basic,Two year,,,299.0,269,7,0,Priya89,India,Maharashtra,Female,1977-01-08,,,,
+1090-SHWZA,2021-02-15,Streaming,2022-02-15,Basic,One year,,,299.0,717,78,0,Nikhil90,India,UP,Female,2003-04-05,,,,
+1091-YJXLO,2021-02-02,Streaming,2022-02-02,Basic,Month-to-month,,,299.0,986,47,0,Rohit91,India,Karnataka,Male,1994-10-07,,,,
+1092-JZDZO,2021-07-25,Streaming,2022-07-25,Standard,One year,,,599.0,1018,4,0,Arjun92,India,Karnataka,Male,1980-03-25,2022-07-11,No,3.0,1.0
+1093-NHHNY,2020-01-05,Streaming,2021-01-04,Basic,One year,,,299.0,508,1,0,Varun93,India,Maharashtra,Female,1984-09-11,2021-09-22,No,5.0,1.0
+1094-KUNQW,2019-11-02,Streaming,2020-11-01,Basic,Month-to-month,,,299.0,239,65,0,Aarav94,India,Delhi,Male,1984-01-04,,,,
+1095-VPTAC,2024-01-08,Streaming,2025-01-07,Basic,Month-to-month,,,299.0,568,60,0,Rohit95,India,UP,Male,1994-09-25,2024-04-11,No,4.0,1.0
+1096-JVDCH,2023-05-22,Streaming,2024-05-21,Standard,Two year,,,599.0,1677,24,0,Neha96,India,MP,Male,1976-11-25,,,,
+1097-DKABL,2023-02-04,Streaming,2024-02-04,Basic,Month-to-month,,,299.0,269,49,0,Isha97,India,Karnataka,Male,1999-08-27,,,,
+1098-EYVKU,2019-03-17,Streaming,2020-03-16,Standard,One year,,,599.0,1377,25,0,Rahul98,India,Karnataka,Male,1987-12-06,,,,
+1099-XBFSE,2019-06-09,Streaming,2020-06-08,Premium,One year,,,999.0,2297,26,0,Aisha99,India,Karnataka,Female,1987-05-24,2021-11-17,No,3.0,1.0
